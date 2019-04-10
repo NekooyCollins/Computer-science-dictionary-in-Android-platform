@@ -1,0 +1,9 @@
+FIREFLY FOREST是客户端，开发环境为Android Studio 3。解压缩后放到Android Studio的工作目录下即可。然后打开Android Studio，开启工程。
+
+PCServer是服务器，开发环境为Eclipse Java Oxygen。解压缩后放到Eclipse的workspace下即可。然后在Eclipse下导入工程。
+
+Eclipse导入方式：
+在左侧创建项目区，右击鼠标——>选择Import—–>General—> 
+Existing Projects into workPlace—->选择最下方Next——>点击Browswer——>选择你要导入的文件夹——->Copy Projects根据需要勾上（选择表示：复制一份文件，到工作区workplace；不选择表示：只将自己的文件导入，不复制）
+
+数据库为MySQL
